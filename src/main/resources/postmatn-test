@@ -1,0 +1,19 @@
+//POST method : url- localhost:8080/users/
+{
+    "name": "Maxim",
+    "lastName": "Smirnov",
+    "patronymic": "Olegosvisch",
+    "birthday": "1997-11-09",
+    "numberPhone": 88128328832,
+    "email": "dasd.s@mail.ru"
+}
+//PUT method: url- localhost:8080/users/
+{
+       "id":1,
+       "name": "Maxim",
+       "lastName": "Smirnov",
+       "patronymic": "Olegosvisch",
+       "birthday": "1997-11-09",
+       "numberPhone": 88128328832,
+       "email": "smirmovMax@mail.ru"
+}
